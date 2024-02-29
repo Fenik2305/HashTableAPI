@@ -1,0 +1,7 @@
+POST http://localhost:5017/hashtable
+Content-Type: application/json
+
+{
+  "Key": "Hello, ",
+  "Value": "World!"
+}

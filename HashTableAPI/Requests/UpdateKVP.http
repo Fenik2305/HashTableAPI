@@ -1,0 +1,8 @@
+﻿@id=1
+
+PUT http://localhost:5017/hashtable/1
+Content-Type: application/json
+
+{
+  "Value": "world"
+}
